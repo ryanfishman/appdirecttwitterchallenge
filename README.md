@@ -20,11 +20,11 @@ A demo showing how to fretch twitter tweets and add some minor customization wit
 
 ## Screen shots
 
-- Desktop view<br/>
+- Desktop View<br/>
 ![alt text](/screenshots/desktop.png)
 
-- Mobile view<br/>
+- Mobile View<br/>
 ![alt text](/screenshots/mobile.png)
 
-- customize view<br/>
+- Customize View<br/>
 ![alt text](/screenshots/customize.png)
