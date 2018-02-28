@@ -41,6 +41,13 @@ export default class ConfirmDialog extends React.Component {
 			}
 		});
 
+		let $daterangepicker = $('.daterangepicker');
+		let $customizeTimerange = $('#customize-timerange')
+
+		setInterval(function () {
+			$('.daterangepicker').css('top', $customizeTimerange.offset().top + 40);
+		}, 10)
+
 		this.refs.form.addEventListener('submit', (event) => {
 			if (this.refs.form.checkValidity() !== false) {
 				this.Save();
