@@ -17,3 +17,14 @@ A demo showing how to fretch twitter tweets and add some minor customization wit
 - To start the application simply type node server.js
 
 - Open a browser window to the location http://localhost:3005
+
+## Screen shots
+
+- Desktop view
+![alt text](/screenshots/desktop.png)
+
+- Mobile view
+![alt text](/screenshots/mobile.png)
+
+- customize view
+![alt text](/screenshots/customize.png)
